@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- scp appcast.xml ubuntu@115.159.99.89:/home/ubuntu/web/download -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Select Shapes Sketch Plugin</title>
+    <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+    <description>Quickly select all or just specific shape types</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 3.3.5</title>
+      <description>
+        新增模版包重复检测
+      </description>
+      <enclosure url="https://nyzhanggy.github.io/assets/plugins/bg-eraser.sketchplugin-3.3.5.zip"
+        sparkle:version="3.3.5" />
+    </item>    
+
+  </channel>
+</rss>
