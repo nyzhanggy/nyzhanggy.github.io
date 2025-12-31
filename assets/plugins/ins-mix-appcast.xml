@@ -9,12 +9,11 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.3.5</title>
+      <title>Version 1.1.1</title>
       <description>
-        
       </description>
-      <enclosure url="https://nyzhanggy.github.io/assets/plugins/bg-eraser.sketchplugin-3.3.5.zip"
-        sparkle:version="3.3.5" />
+      <enclosure url="https://nyzhanggy.github.io/assets/plugins/ins-mix.sketchplugin-1.1.1.zip"
+        sparkle:version="1.1.1" />
     </item>    
 
   </channel>
