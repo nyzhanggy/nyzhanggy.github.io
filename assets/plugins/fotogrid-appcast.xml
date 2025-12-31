@@ -9,12 +9,12 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.1</title>
+      <title>Version 1.0.2</title>
       <description>
         
       </description>
-      <enclosure url="https://nyzhanggy.github.io/assets/plugins/fotogrid.sketchplugin-1.0.1.zip"
-        sparkle:version="1.0.1" />
+      <enclosure url="https://nyzhanggy.github.io/assets/plugins/fotogrid.sketchplugin-1.0.2.zip"
+        sparkle:version="1.0.2" />
     </item>    
 
   </channel>
